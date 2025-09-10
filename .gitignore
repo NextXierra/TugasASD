@@ -1,0 +1,14 @@
+# Build results
+build/
+*.class
+
+# NetBeans private config
+nbproject/private/
+
+# IDE files
+*.iml
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
